@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="FlexiloansMobileAppFlow">
+	<listeners>
+		<listener class-name="GenericUtilities.ListenerClass" />
+	</listeners>
+	
+	<test name="Positive Flow">
+		<classes>
+			<class name="PositiveFlow.PositiveFlow"/>
+			<class name="PositiveFlow.BankStatement"/>
+			<class name="PositiveFlow.DocumentUpload"/>
+		</classes>
+	</test>
+	
+	<!-- <test name="Negative Flow">
+		<classes>
+			<class name="Flexiloans.PositiveFlow"/>
+		</classes>
+	</test> -->
+	
+</suite>

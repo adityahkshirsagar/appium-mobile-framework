@@ -1,0 +1,9 @@
+/target/
+ExtentReports/*
+Screenshots/*
+test-output/*
+src/main/java/core/BaseClass.java
+src/test/resources/id_rsa
+src/test/resources/qa.properties
+.DS_Store
+.DS_Store
