@@ -1,6 +1,6 @@
 # Mobile Automation Framework
 
-A comprehensive Appium-based mobile automation testing framework for Android applications.
+A comprehensive Appium-based mobile automation testing framework for Android and iOS applications.
 
 ## Features
 
